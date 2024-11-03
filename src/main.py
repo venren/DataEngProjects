@@ -1,2 +1,4 @@
 from extract import start
-start.downloadKaggleDataset("jacksoncrow/stock-market-dataset/symbols_valid_meta")
+from extract import kaggleUtils
+
+kaggleUtils.downloadKaggleDataset("carrie1/ecommerce-data")

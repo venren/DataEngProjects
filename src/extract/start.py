@@ -1,6 +1,5 @@
 import pandas as pd
 import logging
-from my_kaggle import kaggleUtils
 import os
 from kaggle.api.kaggle_api_extended import KaggleApi
 
