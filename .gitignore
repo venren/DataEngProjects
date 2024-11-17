@@ -165,3 +165,24 @@ cython_debug/
 
 .terraform/
 .terraform*
+
+carrie1/
+
+# Terraform files
+*.tfplan
+*.tfstate
+*.tfstate.*
+*.tfvars
+*tfplan*
+*.tfvars.json
+crash.log
+
+# .terraform directory
+.terraform/
+
+# Local override files
+override.tf
+override.tf.json
+
+# .terraform.lock.hcl file
+.terraform.lock.hcl
