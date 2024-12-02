@@ -9,10 +9,16 @@
 ## Track follow up from this project to avoid scope creep in this project
 * AWS Glue - how to use it and why is it different from EMR serverless 
 
-### Dataset used in the project
+## Dataset used in the project
 Spotify - https://www.kaggle.com/datasets/dhruvildave/spotify-charts 
 
-### AWS Services used in this project with terraform script and usage
+## What are different ways we can use Apache Spark for development
+### Option 1 - Install Apache Spark locally
+https://medium.com/@hello-dinesh/setup-apache-spark-environment-on-windows-11-step-by-step-guide-74e5aa1c9f65 
+
+### Option 2 - Use Docker 
+
+## AWS Services used in this project with terraform script and usage
 
 
 | **AWS Service Name** | **Terraform Script** | **Usage** |
