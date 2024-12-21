@@ -187,3 +187,4 @@ override.tf.json
 
 # .terraform.lock.hcl file
 .terraform.lock.hcl
+project-2-apache-spark/notebooks/stocks_df.csv
