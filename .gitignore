@@ -187,4 +187,8 @@ override.tf.json
 
 # .terraform.lock.hcl file
 .terraform.lock.hcl
-project-2-apache-spark/notebooks/stocks_df.csv
+project-2-data-science/notebooks/stocks_df.csv
+project-2-data-science/notebooks/JPMC Casestudy.ipynb
+project-2-data-science/notebooks/Data Intel Project - Data Only.xlsx
+project-2-data-science/notebooks/concatenated_data.csv
+project-2-data-science/notebooks/exported_data.csv
